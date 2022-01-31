@@ -1,0 +1,44 @@
+.Navbar{
+    background-color: aqua;
+    height: 70px;
+}
+
+.Navbar-row{
+    display: flex;
+    flex-direction: row;
+    
+    padding: 20px;
+    align-items: center;
+    
+}
+
+.Navbar-list{
+   
+    margin-left: 20px;
+    list-style-type: none;
+    
+}
+
+.Navbar-button{
+    border:none;
+    width:60px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    margin-left: 10px;
+}
+
+.Navbar-div{
+    height: 30px;
+    
+}
+
+.Navbar-img{
+    border-radius: 100px;
+    width:40px;
+    height: 40px;
+    margin-top:0;
+    align-items: center;
+    margin-right: 10px;
+
+}
