@@ -15,7 +15,7 @@ Our E-Leave Software supports up to a three-level approval structure, allows for
         </div>
       </div>
       <div className='right-home'>
-        <img className='home-img' src="https://media.istockphoto.com/photos/inspire-your-teams-to-keep-on-achieving-picture-id1139054510?k=20&m=1139054510&s=612x612&w=0&h=56Rw9KpM67TFveuePknuH23LAcT8BwEw4XxdqetzLrs="></img>
+        <img className='home-img' src="https://media.istockphoto.com/photos/asian-businesswoman-standing-smiling-at-the-camera-picture-id1335295926?b=1&k=20&m=1335295926&s=170667a&w=0&h=6TEcLiO3JwNG3VL2O1LLWGdFgUulikOMqG1cAGixf-E="></img>
       
       </div>
   </div>;

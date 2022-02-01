@@ -1,0 +1,63 @@
+.Leave{
+    background-color: 	 #e6ffff;
+    height: 150vh;
+    margin: 0;
+    position: relative;
+    background-image: url("https://i.pinimg.com/originals/38/3d/9a/383d9a42c541cf36db737ab2899de924.png");
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+}
+
+.leave-container{
+    background-color: cadetblue;
+    width: auto;
+    height: auto;
+    left: 100px;
+    top: 100px;
+    position: absolute;
+    padding: 30px;
+    border-radius: 30px;
+    
+}
+
+
+
+
+.LeaveButton{
+    background-color: rgb(100, 237, 168);
+    border: none;
+    border-radius: 10px;
+    
+}
+
+.LeaveButtons{
+    background-color: rgb(237, 100, 141);
+    border: none;
+    border-radius: 10px;
+    
+}
+
+.leavetable {  
+    text-align: center;
+   background-color: azure;
+   align-items: left;
+   border: 1px solid white;
+   border-radius: 10px;
+   
+  
+}
+
+td{
+    text-align: left;
+    align-items: left;
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.LeaveSpan{
+    color: azure;
+    padding: 40px 0px;
+}
