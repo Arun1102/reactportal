@@ -14,8 +14,13 @@ function Navbar() {
             <li className='Navbar-list'>Home</li>
             <li className='Navbar-list'> Login</li>
             <button className='Navbar-button'>Sign Up</button>
-              
+
+
+            <div className='NavbarBrand'>
+            <h1>ITime</h1>
+            </div>
           </ul>
+          
       </nav>
   </div>;
 }

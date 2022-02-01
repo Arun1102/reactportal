@@ -1,4 +1,46 @@
 .Home{
     background-color: black;
-    height: 100vh
+    height: 100vh;
+    display: flex;
+    color:white;
+    justify-content: space-between;
+    
+}
+
+.left-home{
+align-items: center;
+/*background-color: aqua;*/
+width: 655px;
+text-align: left;
+margin:100px;
+padding: 10px;
+}
+
+
+
+.right-home{
+/*background-color: aquamarine;*/
+margin:50px;
+padding: 10px;
+}
+
+.home-img{
+    width: 600px;
+    height: 500px;
+    border-radius: 5px;
+}
+
+.homespan{
+text-align: left;
+margin-top: 10px;
+
+}
+
+span{
+font-size: 20px;
+
+}
+
+h1{
+    color: aquamarine;
 }
