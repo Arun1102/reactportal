@@ -1,8 +1,10 @@
 .Home{
-    background-color: black;
-    height: 100vh;
+    /* background-color: white; */
+    background-image: linear-gradient(white, #e6f7ff);
+    background-image: linear-gradient(to bottom right, white, white);
+    height: 50vh;
     display: flex;
-    color:white;
+    color:#00334d;
     justify-content: space-between;
     
 }
@@ -14,6 +16,7 @@ width: 655px;
 text-align: left;
 margin:100px;
 padding: 10px;
+margin-top: 200px;
 }
 
 
@@ -27,7 +30,9 @@ padding: 10px;
 .home-img{
     width: 600px;
     height: 500px;
-    border-radius: 5px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px grey;
+    margin-top: 70px;
 }
 
 .homespan{
@@ -42,5 +47,5 @@ font-size: 20px;
 }
 
 h1{
-    color: aquamarine;
+    color:  #004d4d;
 }

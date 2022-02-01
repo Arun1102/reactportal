@@ -7,7 +7,7 @@ function Home() {
         <h1>Announcement</h1>
         <div className='homespan'>
         <span >Apply Leave one week earlier,
-Our E-Leave Software aupports up to a three-level approval structure, allows for different access levels to be set for different approving officers, and approved levels are automatically updated in the HR & Payroll System.</span><br/>
+Our E-Leave Software supports up to a three-level approval structure, allows for different access levels to be set for different approving officers, and approved levels are automatically updated in the HR & Payroll System.</span><br/>
         </div>    
         <div className='homespan'>
         <span >Thank you.</span><br/>

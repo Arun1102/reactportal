@@ -17,7 +17,7 @@ function Navbar() {
 
 
             <div className='NavbarBrand'>
-            <h1>ITime</h1>
+            <h2>ITime</h2>
             </div>
           </ul>
           

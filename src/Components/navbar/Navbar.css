@@ -1,5 +1,5 @@
 .Navbar{
-    background-color: #202020;
+    background-color:  #006666;
     height: 70px;
     color:white;
     position: relative;
@@ -39,15 +39,15 @@
     width:60px;
     height: 20px;
     border-radius: 5px;
-    background-color: aquamarine;
+    background-color: #00b3b3;
     margin-left: 10px;
     cursor: pointer;
 }
 
-.Navbar-div{
+/* .Navbar-div{
     height: 30px;
     
-}
+} */
 
 .Navbar-img{
     border-radius: 100px;
