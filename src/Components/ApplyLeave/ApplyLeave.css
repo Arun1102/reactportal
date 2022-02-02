@@ -1,0 +1,6 @@
+.ApplyLeave-Date{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    width: 300px;
+}
