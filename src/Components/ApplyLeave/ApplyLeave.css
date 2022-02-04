@@ -1,6 +1,83 @@
 .ApplyLeave-Date{
     display: flex;
     flex-direction: row;
-    background-color: aqua;
-    width: 300px;
+    background-color: lightgrey;
+    width: 600px;
+    margin-left: 20px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+/* .datePicker1{
+    padding: 30px;
+    height: 30px;
+    
+}
+
+.datePicker2{
+    padding: 30px;
+}  */
+
+
+
+.ApplyLeave{
+    background-color: white;
+    height: 100vh;
+    margin: 70px;
+    
+}
+.LeaveInfo {
+    margin-bottom: 10px;
+    
+}
+
+span{
+    font-weight:900;
+}
+
+.LeaveInfo2{
+    margin-bottom: 10px;
+}
+
+.ApplyLeave-Radio{
+    padding: 20px;
+}
+.radiobutton1{
+margin-right: 20px;
+margin-left: 10px;
+}
+
+.radiobutton2{
+margin-right: 20px;
+margin-left: 10px;
+}
+
+.Deparment-choose{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.Reason-apply{
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+
+.ReasonHold{
+    height: 120px;
+    width: 400px;
+    border-color:lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+    
+    
+}
+
+.ApplyButton{
+width: 100px;
+height: 40px;
+border-radius: 10px;
+background-color: aqua;
+border:none;
+margin: 20px;
 }
